@@ -1,0 +1,99 @@
+{
+  "tool": "built-in image_gen",
+  "style": "flat pastel anime tarot, user reference direction",
+  "star": {
+    "output_hint": "Generated images are saved to C:\\Users\\nonam\\.codex\\generated_images\\01a095d7-8bc0-7fe1-a8ef-77294361a694 as C:\\Users\\nonam\\.codex\\generated_images\\01a095d7-8bc0-7fe1-a8ef-77294361a694\\exec-283e9db5-bca6-421a-853c-b25d13ad4b02.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "prompt": "Use case: illustration-story. Create a SINGLE original THE STAR tarot card illustration in the graphic design language of the supplied reference image: stylized anime character reduced to clean flat pastel color shapes, almost featureless ivory face (no rendered eyes), thin consistent warm taupe-gold outlines, restrained ivory/pastel lavender/powder blue/dusty rose color palette, limited deep violet accent area. This is decorative flat graphic tarot art, not anime splash art. Match the reference's symbolic silhouette clarity, papercut / cloisonne stained-glass feeling, quiet matte texture and elegant geometric ornamental frame. ORIGINAL SUBJECT: a silver-blue-haired adult star priestess kneeling, holding TWO large clearly visible pouring jugs, one stream enters a simple pool and one reaches land. ONE very large eight-point star in a violet circular halo centered over her head, exactly seven tiny surrounding stars. These star and water symbols should be immediately readable. Simple flowing ivory-and-lavender dress, star clasp, minimal accessory detail; simplified attractive anime silhouette. Composition has generous clean ivory negative space, limited ornament; one central full figure, 2:3 portrait straight-on card filling canvas, slender rectangular taupe-gold frame with small star corner motifs. Crisp matte flat fills, no gradients except extremely subtle print grain, no glow, no sparkling particle effects, no realistic rendering, no three-dimensional lighting, no glossy jewels, no excessive detail. No text, no letters, no numbers, no logos, no copyright line, no bottom title box. Reference is style only, do not copy its character or composition."
+  },
+  "base": "Use case: illustration-story. One original tarot card in a coherent set. Attached images are STYLE REFERENCES ONLY (first is user supplied flat graphic card, second is this deck's approved-direction Star card). Match the SECOND image's exact quiet pastel palette, uniform thin warm taupe-gold outlines, simple geometric ornamental frame, ivory paper ground and almost featureless ivory anime faces. Clean flat pastel color shapes, papercut/cloisonne decorative graphic design; limited ivory, muted lavender, powder blue, dusty rose, soft gold, limited dark violet accents. Clear symbolic silhouettes, restrained costume detail, very little shading, matte print texture, generous uncluttered negative space. Character design appropriate to specified symbol; all humans clearly adults. Full 2:3 portrait card fills canvas, consistent thin rectangular taupe-gold frame with corner medallions. No text, letters, numbers, title panels, logos or copyright. No glossy rendering, glow, bokeh, sparkling particles, 3D, photoreal faces, splash-art complexity, rainbow jewels or strong gradients. PRIMARY GOAL: card meaning immediately recognizable from its large central symbols. SUBJECT: ",
+  "subjects": [
+    [
+      "fool",
+      "THE FOOL. Dominant symbols: a small white dog, a cliff edge, and white rose. An adult pink-haired anime adventurer with a simple travel bundle steps forward above a flat pale-blue mountain shape. Large simple sun disk. Theme: new beginnings."
+    ],
+    [
+      "magician",
+      "THE MAGICIAN. Dominant symbols: large infinity emblem above head; a wand raised overhead; table with exactly one cup, coin, sword and wand. Adult male dark-haired anime mage in ivory/violet tunic, one hand pointing down. Theme: bringing ideas to life."
+    ],
+    [
+      "high-priestess",
+      "THE HIGH PRIESTESS. Dominant symbols: large crescent moon, two contrasting pillars, scroll. Adult long indigo-haired anime priestess seated symmetrically in flowing ivory/lavender robe, simple pomegranate curtain. Theme: inner wisdom."
+    ],
+    [
+      "empress",
+      "THE EMPRESS. Dominant symbols: twelve-star crown and large stalks of wheat. Adult rose-haired anime queen seated in an ivory gown on a pale violet throne among a few simple roses and wheat shapes. Theme: nurture and abundance."
+    ],
+    [
+      "emperor",
+      "THE EMPEROR. Dominant symbols: ram-carved stone throne, gold orb, upright scepter. Adult male silver-haired anime ruler in restrained purple cape and simplified ceremonial armor, angular mountain backdrop. Theme: structure and responsibility."
+    ],
+    [
+      "hierophant",
+      "THE HIEROPHANT. Dominant symbols: two large crossed keys, staff with three crossbars. Adult pale-haired male anime teacher in ceremonial ivory/violet robes and a tall crown, two small kneeling students. Theme: learning and tradition."
+    ],
+    [
+      "lovers",
+      "THE LOVERS. Dominant symbols: two linked hands and a large heart-shaped leaf motif. Two fully clothed adult anime lovers, pink-haired woman and blue-haired man, face each other beneath a small angel silhouette and warm sun disk. Theme: connection and choice."
+    ],
+    [
+      "chariot",
+      "THE CHARIOT. Dominant symbols: gold chariot with two visible wheels, one dark and one ivory sphinx in front. Determined adult short-blue-haired anime knight in a simple cape beneath star canopy. Theme: direction and resolve."
+    ],
+    [
+      "strength",
+      "STRENGTH. Dominant symbols: large calm lion and infinity emblem. Adult golden-haired anime woman in an ivory/lavender dress gently rests her hands on the lion's mane. Minimal flower garland. Theme: compassion and courage."
+    ],
+    [
+      "hermit",
+      "THE HERMIT. Dominant symbols: large lantern containing one star, long walking staff. Adult dark-blue-haired anime sage in simple lavender hooded cloak standing on a stylized mountain peak. Large quiet ivory negative space. Theme: solitude and reflection."
+    ],
+    [
+      "wheel-of-fortune",
+      "WHEEL OF FORTUNE. Dominant symbol: one very large golden eight-spoked wheel, occupying most of artwork. Small winged angel, eagle, lion and bull in four corners, simple looping ribbon conveys rotation, lavender and blue cloud shapes. No letters on wheel. Theme: cycles and change."
+    ],
+    [
+      "justice",
+      "JUSTICE. Dominant symbols: precisely balanced scales and an upright sword of equal visual weight. Adult white-haired anime woman in a plain violet ceremonial gown seated between two ivory pillars. Symmetrical composition. Theme: balance and fairness."
+    ],
+    [
+      "hanged-man",
+      "THE HANGED MAN. Dominant symbol: adult male teal-haired anime traveler hanging upside-down by one ankle from a simple T-shaped living tree; free leg bent into triangle, hands behind back, simple gold halo. Peaceful and uninjured. Theme: a new perspective."
+    ],
+    [
+      "death",
+      "DEATH. Dominant symbols: white rose on a black banner, white horse, rising sun. Adult silver-haired anime knight in simple charcoal/lavender armor with a small skull-shaped crest, riding the white horse toward a sunrise between two towers. No gore or injury. Theme: endings and renewal."
+    ],
+    [
+      "temperance",
+      "TEMPERANCE. Dominant symbols: exactly two large cups connected by a clearly visible stream of water. Adult pastel-peach-haired winged anime angel in ivory/lavender dress, one foot in blue water and one on land. Theme: harmony and moderation."
+    ],
+    [
+      "devil",
+      "THE DEVIL. Dominant symbols: horned winged guardian silhouette and two clearly loose chains. Adult violet-haired anime demon in a simple dark-violet ceremonial robe above two small fully clothed adult figures with removable chain loops. No nudity. Theme: noticing attachments."
+    ],
+    [
+      "tower",
+      "THE TOWER. Dominant symbols: one large lightning bolt striking a stone tower, a crown-shaped roof flying aside. Simple angular purple storm backdrop, two tiny fully clothed cloak silhouettes falling, no close-up harm, no gore. Theme: change and rebuilding."
+    ],
+    [
+      "moon",
+      "THE MOON. Dominant symbols: one very large crescent moon, dog and wolf, small crayfish emerging from pool. Winding path between two towers, flat lavender night sky and pale blue water, no main human figure. Theme: intuition and uncertainty."
+    ],
+    [
+      "sun",
+      "THE SUN. Dominant symbols: one very large sun disk with clear rays, white horse, big sunflowers. Cheerful fully clothed adult golden-haired anime rider in ivory tunic holding a simple lavender banner. Theme: clarity and vitality."
+    ],
+    [
+      "judgement",
+      "JUDGEMENT. Dominant symbol: large golden trumpet held by a winged adult white-haired anime angel above three small fully clothed adult silhouettes with uplifted faces. Simple sunrise rays and lavender cloud shapes. Theme: awakening and a fresh start."
+    ],
+    [
+      "world",
+      "THE WORLD. Dominant symbols: a large oval green-gold laurel wreath and two short wands. Fully clothed adult lavender-haired anime dancer in ivory dress within the wreath; small angel, eagle, lion and bull in corners. Theme: completion and connection."
+    ],
+    [
+      "card-back",
+      "COMMON CARD BACK. No humans. Perfectly 180-degree reversible design: one central eight-point star within an oval laurel wreath, mirrored crescent moons, simple symmetrical corner star medallions. Ivory background with flat pale lavender and powder blue panels, thin warm taupe-gold outlines. Calm clear decorative geometry."
+    ]
+  ]
+}

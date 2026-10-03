@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly convert Markdown text into beautifully formatted documents, perfect for writers, developers, and anyone needing quick formatting solutions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

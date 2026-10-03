@@ -1,0 +1,14 @@
+node_modules
+.cache
+dist
+.vite
+.git
+.env*
+!.env.example
+artwork
+docs
+.figma
+.agents
+.codex
+.pnpm-store
+*.log

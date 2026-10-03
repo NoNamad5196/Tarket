@@ -1,0 +1,189 @@
+{
+  "style": "Flat pastel anime tarot; final user reference direction",
+  "assets": [
+    {
+      "id": "fool",
+      "original": "artwork/tarot/originals/fool.png",
+      "url": "/assets/tarot/fool.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 105518
+    },
+    {
+      "id": "magician",
+      "original": "artwork/tarot/originals/magician.png",
+      "url": "/assets/tarot/magician.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 122530
+    },
+    {
+      "id": "high-priestess",
+      "original": "artwork/tarot/originals/high-priestess.png",
+      "url": "/assets/tarot/high-priestess.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 108058
+    },
+    {
+      "id": "empress",
+      "original": "artwork/tarot/originals/empress.png",
+      "url": "/assets/tarot/empress.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 115982
+    },
+    {
+      "id": "emperor",
+      "original": "artwork/tarot/originals/emperor.png",
+      "url": "/assets/tarot/emperor.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 110338
+    },
+    {
+      "id": "hierophant",
+      "original": "artwork/tarot/originals/hierophant.png",
+      "url": "/assets/tarot/hierophant.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 107090
+    },
+    {
+      "id": "lovers",
+      "original": "artwork/tarot/originals/lovers.png",
+      "url": "/assets/tarot/lovers.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 118156
+    },
+    {
+      "id": "chariot",
+      "original": "artwork/tarot/originals/chariot.png",
+      "url": "/assets/tarot/chariot.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 116346
+    },
+    {
+      "id": "strength",
+      "original": "artwork/tarot/originals/strength.png",
+      "url": "/assets/tarot/strength.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 110366
+    },
+    {
+      "id": "hermit",
+      "original": "artwork/tarot/originals/hermit.png",
+      "url": "/assets/tarot/hermit.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 93058
+    },
+    {
+      "id": "wheel-of-fortune",
+      "original": "artwork/tarot/originals/wheel-of-fortune.png",
+      "url": "/assets/tarot/wheel-of-fortune.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 100984
+    },
+    {
+      "id": "justice",
+      "original": "artwork/tarot/originals/justice.png",
+      "url": "/assets/tarot/justice.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 110478
+    },
+    {
+      "id": "hanged-man",
+      "original": "artwork/tarot/originals/hanged-man.png",
+      "url": "/assets/tarot/hanged-man.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 101796
+    },
+    {
+      "id": "death",
+      "original": "artwork/tarot/originals/death.png",
+      "url": "/assets/tarot/death.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 113880
+    },
+    {
+      "id": "temperance",
+      "original": "artwork/tarot/originals/temperance.png",
+      "url": "/assets/tarot/temperance.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 118808
+    },
+    {
+      "id": "devil",
+      "original": "artwork/tarot/originals/devil.png",
+      "url": "/assets/tarot/devil.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 114600
+    },
+    {
+      "id": "tower",
+      "original": "artwork/tarot/originals/tower.png",
+      "url": "/assets/tarot/tower.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 105220
+    },
+    {
+      "id": "star",
+      "original": "artwork/tarot/originals/star.png",
+      "url": "/assets/tarot/star.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 106882
+    },
+    {
+      "id": "moon",
+      "original": "artwork/tarot/originals/moon.png",
+      "url": "/assets/tarot/moon.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 105864
+    },
+    {
+      "id": "sun",
+      "original": "artwork/tarot/originals/sun.png",
+      "url": "/assets/tarot/sun.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 114054
+    },
+    {
+      "id": "judgement",
+      "original": "artwork/tarot/originals/judgement.png",
+      "url": "/assets/tarot/judgement.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 115354
+    },
+    {
+      "id": "world",
+      "original": "artwork/tarot/originals/world.png",
+      "url": "/assets/tarot/world.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 121616
+    },
+    {
+      "id": "card-back",
+      "original": "artwork/tarot/originals/card-back.png",
+      "url": "/assets/tarot/card-back.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 84222
+    }
+  ]
+}
