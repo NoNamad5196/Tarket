@@ -4,6 +4,10 @@
 
 공개 주소: **https://tarket.vercel.app**
 
+소스 저장소: [NoNamad5196/Tarket](https://github.com/NoNamad5196/Tarket) · 기본 브랜치 `main`.
+
+기존 Vercel `tarket` 프로젝트에 이 저장소를 연결했습니다. `main` 푸시는 Production 배포를 시작합니다.
+
 React 19 · TypeScript · Vite 8 · Tailwind 4 · Vercel Functions · Gemini · Upstash Redis.
 
 ## 현재 상태
@@ -56,13 +60,15 @@ pnpm build
 - `public/assets/tarot/`: 실제 서비스용 640×960 WebP 23장, 합계 약 2.4 MiB.
 - `docs/tarot-contact-sheet.jpg`: 전체 카드 검토 이미지.
 
+원본과 검토 이미지는 Git LFS로 보관합니다. `public/assets/`의 작은 서비스용 이미지는 일반 Git 파일로 저장해 Git 기반 배포에서도 바로 사용할 수 있습니다.
+
 원본 변경 후 `pnpm assets:prepare`와 `pnpm assets:check`를 실행합니다.
 
 ## 운영
 
 `src/lib/cards.ts`가 카드 정보와 이미지 연결의 기준입니다. `server/`가 발권·Gemini·Redis를 담당하고 `api/readings.ts`가 Vercel 진입점입니다. TypeScript의 `rewriteRelativeImportExtensions`를 유지해야 서버 배포의 .ts import가 .js로 변환됩니다. `pnpm test:server-build`로 컴파일된 API의 실제 모듈 해석까지 검사합니다.
 
-현재 Production은 Gemini 발권 경로를 선택합니다. 실제 Gemini 발권·캐시 재조회 검증은 별도로 남아 있습니다. 최신 배포는 `dpl_879z6Mtowke4PbrEXtNEeQZjA6KD`이며, [배포 주소](https://tarket-5edkxgr9k-nonamad5196s-projects.vercel.app)와 공개 주소에 반영했습니다.
+현재 Production은 Gemini 발권 경로를 선택합니다. 실제 Gemini 발권·캐시 재조회 검증은 별도로 남아 있습니다. 2026-10-04 GitHub 첫 커밋 `fb20109`를 Production에 배포했습니다. 배포 ID는 `dpl_HEKCjNTht4tc7GzE8YiUJrL9QAYY`이며, [배포 주소](https://tarket-jgup3wey4-nonamad5196s-projects.vercel.app)와 공개 주소에 반영했습니다.
 
 [AI 활성화 절차](docs/activation.md) · [검증 기록](docs/validation.md)
 

@@ -60,3 +60,15 @@
 - 배포 전 `pnpm test` 26개, `pnpm test:server-build`, `pnpm assets:check`를 다시 실행해 통과했습니다.
 - 실제 AI 발권과 동일 입력 캐시 재조회는 아직 검증하지 않았습니다.
 - 로컬 Vite 개발 서버를 종료했고 5175 포트의 수신 프로세스가 없는 것을 확인했습니다.
+
+## 2026-10-04 GitHub 등록과 최신 배포
+
+- 빈 [NoNamad5196/Tarket](https://github.com/NoNamad5196/Tarket) 저장소에 `main` 브랜치를 만들고 첫 커밋 `fb201097c3b19bff5bf2844e93dd73680bc257c9`를 푸시했습니다.
+- 원본과 검토 이미지 등 Git LFS 객체 27개(약 111 MB) 업로드를 완료했습니다. 서비스용 `public/assets/` 이미지는 일반 Git 파일입니다.
+- 비밀값 파일, `.vercel/`, 의존성, 빌드 출력과 캐시는 커밋에서 제외했습니다. 스테이징된 소스의 비밀키 시그니처 검사를 통과했습니다.
+- `pnpm test` 26개, `pnpm test:server-build`, `pnpm assets:check`, `pnpm build`를 실행해 통과했습니다.
+- 기존 `nonamad5196s-projects/tarket` 프로젝트에 CLI로 Production을 배포했습니다. 배포 ID는 `dpl_HEKCjNTht4tc7GzE8YiUJrL9QAYY`, 상태는 `READY`, Git 메타데이터는 위 첫 커밋과 `main`입니다.
+- 배포 주소는 https://tarket-jgup3wey4-nonamad5196s-projects.vercel.app 이며 공개 https://tarket.vercel.app 에 반영되었습니다.
+- 공개 홈페이지 200, `GET /api/readings` 200·`mode: "gemini"`·`Cache-Control: no-store`, `fool.webp` 200·`image/webp`를 확인했습니다.
+- 실제 Gemini 발권과 Redis 통합 동작은 이번에도 검증하지 않았습니다.
+- 사용자 본인 인증과 `Tarket` 접근 권한 승인 후 기존 Vercel 프로젝트에 GitHub 저장소를 연결했습니다. 연결 유형 `github`, 저장소 `NoNamad5196/Tarket`, Production 브랜치 `main`을 Vercel API로 확인했습니다.
